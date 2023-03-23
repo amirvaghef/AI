@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BezierSignature">
+</Property><Property Name="Solution File" Value="G:\Own Program\M.S. Projects\CV\beziersignature\BezierSignature.sln">
+</Property><Property Name="Date" Value="Monday, June 28, 2010">
+</Property><Property Name="Time" Value="16:32:09 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="TestSignature" Source="TestSignature\TestSignature.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TestSignature" Source="TestSignature\TestSignature.csproj" Description="Converted">
+</Event></UpgradeLog>

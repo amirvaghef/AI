@@ -1,0 +1,5 @@
+G:\Own Program\M.S. Projects\AI\DFS\DFS\bin\Debug\DFS.exe
+G:\Own Program\M.S. Projects\AI\DFS\DFS\bin\Debug\DFS.pdb
+G:\Own Program\M.S. Projects\AI\DFS\DFS\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Own Program\M.S. Projects\AI\DFS\DFS\obj\x86\Debug\DFS.exe
+G:\Own Program\M.S. Projects\AI\DFS\DFS\obj\x86\Debug\DFS.pdb

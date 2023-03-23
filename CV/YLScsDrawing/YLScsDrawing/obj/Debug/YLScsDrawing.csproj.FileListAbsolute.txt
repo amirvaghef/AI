@@ -1,0 +1,5 @@
+G:\Own Program\M.S. Projects\CV\YLScsDrawing\YLScsDrawing\bin\Debug\YLScsDrawing.dll
+G:\Own Program\M.S. Projects\CV\YLScsDrawing\YLScsDrawing\bin\Debug\YLScsDrawing.pdb
+G:\Own Program\M.S. Projects\CV\YLScsDrawing\YLScsDrawing\obj\Debug\ResolveAssemblyReference.cache
+G:\Own Program\M.S. Projects\CV\YLScsDrawing\YLScsDrawing\obj\Debug\YLScsDrawing.dll
+G:\Own Program\M.S. Projects\CV\YLScsDrawing\YLScsDrawing\obj\Debug\YLScsDrawing.pdb

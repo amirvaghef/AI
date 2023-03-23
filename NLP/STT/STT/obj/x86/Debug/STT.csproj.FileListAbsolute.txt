@@ -1,0 +1,16 @@
+G:\Own Program\M.S. Projects\NLP\STT\STT\bin\Debug\STT.exe
+G:\Own Program\M.S. Projects\NLP\STT\STT\bin\Debug\STT.pdb
+G:\Own Program\M.S. Projects\NLP\STT\STT\bin\Debug\Interop.SpeechLib.dll
+G:\Own Program\M.S. Projects\NLP\STT\STT\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Own Program\M.S. Projects\NLP\STT\STT\obj\x86\Debug\Interop.SpeechLib.dll
+G:\Own Program\M.S. Projects\NLP\STT\STT\obj\x86\Debug\STT.csproj.ResolveComReference.cache
+G:\Own Program\M.S. Projects\NLP\STT\STT\obj\x86\Debug\STT.Form1.resources
+G:\Own Program\M.S. Projects\NLP\STT\STT\obj\x86\Debug\STT.Properties.Resources.resources
+G:\Own Program\M.S. Projects\NLP\STT\STT\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Own Program\M.S. Projects\NLP\STT\STT\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\Own Program\M.S. Projects\NLP\STT\STT\obj\x86\Debug\STT.exe
+G:\Own Program\M.S. Projects\NLP\STT\STT\obj\x86\Debug\STT.pdb
+D:\Own Program\M.S. Projects\NLP\STT\STT\obj\x86\Debug\Interop.SpeechLib.dll
+D:\Own Program\M.S. Projects\NLP\STT\STT\obj\x86\Debug\STT.csproj.ResolveComReference.cache
+D:\Own Program\M.S. Projects\NLP\STT\STT\obj\x86\Debug\STT.exe
+D:\Own Program\M.S. Projects\NLP\STT\STT\obj\x86\Debug\STT.pdb

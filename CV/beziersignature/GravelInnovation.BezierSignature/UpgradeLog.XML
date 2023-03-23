@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GravelInnovation.BezierSignature">
+</Property><Property Name="Solution File" Value="G:\Own Program\M.S. Projects\CV\beziersignature\GravelInnovation.BezierSignature\GravelInnovation.BezierSignature.sln">
+</Property><Property Name="Date" Value="Monday, June 28, 2010">
+</Property><Property Name="Time" Value="16:39:31 PM">
+</Property></Properties><Event ErrorLevel="0" Project="GravelInnovation.BezierSignature" Source="GravelInnovation.BezierSignature.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GravelInnovation.BezierSignature" Source="GravelInnovation.BezierSignature.csproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="" Source="GravelInnovation.BezierSignature.csproj" Description="The project file 'G:\Own Program\M.S. Projects\CV\beziersignature\GravelInnovation.BezierSignature\GravelInnovation.BezierSignature.csproj' cannot be opened.&#xA;&#xA;The project type is not supported by this installation.">
+</Event></UpgradeLog>

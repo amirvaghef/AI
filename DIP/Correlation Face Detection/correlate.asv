@@ -1,0 +1,13 @@
+function correlate()
+    originalImage = imread('subjects.JPG');
+    originalImage = rgb2gray(originalImage);
+    templateImage = imread('tmple.jpg');
+    templateImage = rgb2gray(templateImage);
+    corrImage = normxcorr2(templateImage ,originalImage);
+    corrImage = im2bw(corrImage, 0.5);
+    %imshow(corrImage);
+    labeledRegion = bwlabel(corrImage, 8);
+    regionProperties = regionprops(labeledRegion, 'all'); 
+    regionNO = size(regionProperties, 1); 
+    %mesh(corrImage);
+end

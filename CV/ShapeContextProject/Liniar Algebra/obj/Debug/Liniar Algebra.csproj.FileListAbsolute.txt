@@ -1,0 +1,5 @@
+G:\Own Program\M.S. Projects\CV\dll\debug\LiniarAlgebra.dll
+G:\Own Program\M.S. Projects\CV\dll\debug\LiniarAlgebra.pdb
+G:\Own Program\M.S. Projects\CV\Liniar Algebra\obj\Debug\ResolveAssemblyReference.cache
+G:\Own Program\M.S. Projects\CV\Liniar Algebra\obj\Debug\LiniarAlgebra.dll
+G:\Own Program\M.S. Projects\CV\Liniar Algebra\obj\Debug\LiniarAlgebra.pdb

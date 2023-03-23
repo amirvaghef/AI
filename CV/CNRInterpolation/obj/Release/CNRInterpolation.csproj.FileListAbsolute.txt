@@ -1,0 +1,6 @@
+G:\Own Program\M.S. Projects\CV\CNRInterpolation\bin\Release\CNRInterpolation.exe
+G:\Own Program\M.S. Projects\CV\CNRInterpolation\obj\Release\ResolveAssemblyReference.cache
+G:\Own Program\M.S. Projects\CV\CNRInterpolation\obj\Release\CNRInterpolation.InterpolationForm.resources
+G:\Own Program\M.S. Projects\CV\CNRInterpolation\obj\Release\GenerateResource-ResGen.read.1.tlog
+G:\Own Program\M.S. Projects\CV\CNRInterpolation\obj\Release\GenerateResource-ResGen.write.1.tlog
+G:\Own Program\M.S. Projects\CV\CNRInterpolation\obj\Release\CNRInterpolation.exe

@@ -1,0 +1,11 @@
+G:\Own Program\M.S. Projects\CV\YLScsDrawing\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\Own Program\M.S. Projects\CV\YLScsDrawing\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\Own Program\M.S. Projects\CV\YLScsDrawing\WindowsApplication1\bin\Debug\YLScsDrawing.dll
+G:\Own Program\M.S. Projects\CV\YLScsDrawing\WindowsApplication1\bin\Debug\YLScsDrawing.pdb
+G:\Own Program\M.S. Projects\CV\YLScsDrawing\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\Own Program\M.S. Projects\CV\YLScsDrawing\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+G:\Own Program\M.S. Projects\CV\YLScsDrawing\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+G:\Own Program\M.S. Projects\CV\YLScsDrawing\WindowsApplication1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Own Program\M.S. Projects\CV\YLScsDrawing\WindowsApplication1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\Own Program\M.S. Projects\CV\YLScsDrawing\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\Own Program\M.S. Projects\CV\YLScsDrawing\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

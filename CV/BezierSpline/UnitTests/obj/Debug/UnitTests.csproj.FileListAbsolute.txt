@@ -1,0 +1,9 @@
+G:\Own Program\M.S. Projects\CV\BezierSpline\UnitTests\bin\Debug\UnitTests.dll
+G:\Own Program\M.S. Projects\CV\BezierSpline\UnitTests\bin\Debug\UnitTests.pdb
+G:\Own Program\M.S. Projects\CV\BezierSpline\UnitTests\bin\Debug\BezierCurve.exe
+G:\Own Program\M.S. Projects\CV\BezierSpline\UnitTests\bin\Debug\BezierCurve.pdb
+G:\Own Program\M.S. Projects\CV\BezierSpline\UnitTests\bin\Debug\BezierCurve_Accessor.exe
+G:\Own Program\M.S. Projects\CV\BezierSpline\UnitTests\bin\Debug\BezierCurve_Accessor.pdb
+G:\Own Program\M.S. Projects\CV\BezierSpline\UnitTests\obj\Debug\ResolveAssemblyReference.cache
+G:\Own Program\M.S. Projects\CV\BezierSpline\UnitTests\obj\Debug\UnitTests.dll
+G:\Own Program\M.S. Projects\CV\BezierSpline\UnitTests\obj\Debug\UnitTests.pdb

@@ -1,0 +1,25 @@
+G:\Own Program\M.S. Projects\NLP\TokenExtraction\TokenExtraction\bin\Debug\TokenExtraction.exe
+G:\Own Program\M.S. Projects\NLP\TokenExtraction\TokenExtraction\bin\Debug\TokenExtraction.pdb
+G:\Own Program\M.S. Projects\NLP\TokenExtraction\TokenExtraction\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Own Program\M.S. Projects\NLP\TokenExtraction\TokenExtraction\obj\x86\Debug\TokenExtraction.Form1.resources
+G:\Own Program\M.S. Projects\NLP\TokenExtraction\TokenExtraction\obj\x86\Debug\TokenExtraction.Properties.Resources.resources
+G:\Own Program\M.S. Projects\NLP\TokenExtraction\TokenExtraction\obj\x86\Debug\TokenExtraction.exe
+G:\Own Program\M.S. Projects\NLP\TokenExtraction\TokenExtraction\obj\x86\Debug\TokenExtraction.pdb
+G:\Arshad\Term2\Project\NLP\TokenExtraction\TokenExtraction\obj\x86\Debug\TokenExtraction.exe
+G:\Arshad\Term2\Project\NLP\TokenExtraction\TokenExtraction\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Arshad\Term2\Project\NLP\TokenExtraction\TokenExtraction\obj\x86\Debug\TokenExtraction.Form1.resources
+G:\Arshad\Term2\Project\NLP\TokenExtraction\TokenExtraction\obj\x86\Debug\TokenExtraction.Properties.Resources.resources
+G:\Arshad\Term2\Project\NLP\TokenExtraction\TokenExtraction\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Arshad\Term2\Project\NLP\TokenExtraction\TokenExtraction\obj\x86\Debug\ResGen-dw20.read.2.tlog
+G:\Arshad\Term2\Project\NLP\TokenExtraction\TokenExtraction\obj\x86\Debug\ResGen-dw20.read.3.tlog
+G:\Arshad\Term2\Project\NLP\TokenExtraction\TokenExtraction\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\Arshad\Term2\Project\NLP\TokenExtraction\TokenExtraction\obj\x86\Debug\ResGen-dw20.write.2.tlog
+G:\Arshad\Term2\Project\NLP\TokenExtraction\TokenExtraction\obj\x86\Debug\ResGen-dw20.write.3.tlog
+G:\Own Program\M.S. Projects\NLP\TokenExtraction\TokenExtraction\bin\Debug\TokenExtraction.exe.config
+G:\Own Program\M.S. Projects\NLP\TokenExtraction\TokenExtraction\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Own Program\M.S. Projects\NLP\TokenExtraction\TokenExtraction\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Own Program\M.S. Projects\NLP\TokenExtraction\TokenExtraction\obj\x86\Debug\TokenExtraction.EditSentences.resources
+G:\Own Program\M.S. Projects\NLP\TokenExtraction\TokenExtraction\obj\x86\Debug\TokenExtraction.Form2.resources
+D:\Own Program\M.S. Projects\NLP\TokenExtraction\TokenExtraction\bin\Debug\TokenExtraction.exe.config
+D:\Own Program\M.S. Projects\NLP\TokenExtraction\TokenExtraction\obj\x86\Debug\TokenExtraction.exe
+D:\Own Program\M.S. Projects\NLP\TokenExtraction\TokenExtraction\obj\x86\Debug\TokenExtraction.pdb

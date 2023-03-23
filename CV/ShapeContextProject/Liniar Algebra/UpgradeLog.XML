@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Liniar Algebra">
+</Property><Property Name="Solution File" Value="G:\Own Program\M.S. Projects\CV\Liniar Algebra\Liniar Algebra.sln">
+</Property><Property Name="Date" Value="Monday, June 28, 2010">
+</Property><Property Name="Time" Value="16:58:35 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Liniar Algebra" Source="Liniar Algebra.csproj" Description="Project file successfully backed up as G:\Own Program\M.S. Projects\CV\Liniar Algebra\Backup\Liniar Algebra.csproj">
+</Event><Event ErrorLevel="0" Project="Liniar Algebra" Source="Liniar Algebra.csproj.user" Description="Project user file successfully backed up as G:\Own Program\M.S. Projects\CV\Liniar Algebra\Backup\Liniar Algebra.csproj.user">
+</Event><Event ErrorLevel="0" Project="Liniar Algebra" Source="DoubleMatrix.cs" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\Liniar Algebra\Backup\DoubleMatrix.cs">
+</Event><Event ErrorLevel="0" Project="Liniar Algebra" Source="EigenValuesVectorsLib\ap.cs" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\Liniar Algebra\Backup\EigenValuesVectorsLib\ap.cs">
+</Event><Event ErrorLevel="0" Project="Liniar Algebra" Source="EigenValuesVectorsLib\blas.cs" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\Liniar Algebra\Backup\EigenValuesVectorsLib\blas.cs">
+</Event><Event ErrorLevel="0" Project="Liniar Algebra" Source="EigenValuesVectorsLib\reflections.cs" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\Liniar Algebra\Backup\EigenValuesVectorsLib\reflections.cs">
+</Event><Event ErrorLevel="0" Project="Liniar Algebra" Source="EigenValuesVectorsLib\rotations.cs" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\Liniar Algebra\Backup\EigenValuesVectorsLib\rotations.cs">
+</Event><Event ErrorLevel="0" Project="Liniar Algebra" Source="EigenValuesVectorsLib\sblas.cs" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\Liniar Algebra\Backup\EigenValuesVectorsLib\sblas.cs">
+</Event><Event ErrorLevel="0" Project="Liniar Algebra" Source="EigenValuesVectorsLib\tdevd.cs" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\Liniar Algebra\Backup\EigenValuesVectorsLib\tdevd.cs">
+</Event><Event ErrorLevel="0" Project="Liniar Algebra" Source="EigenValuesVectorsLib\tridiagonal.cs" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\Liniar Algebra\Backup\EigenValuesVectorsLib\tridiagonal.cs">
+</Event><Event ErrorLevel="0" Project="Liniar Algebra" Source="EigenValuesVectorsLib\EigenVectorsFinder.cs" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\Liniar Algebra\Backup\EigenValuesVectorsLib\EigenVectorsFinder.cs">
+</Event><Event ErrorLevel="0" Project="Liniar Algebra" Source="Exceptions.cs" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\Liniar Algebra\Backup\Exceptions.cs">
+</Event><Event ErrorLevel="0" Project="Liniar Algebra" Source="IntMatrix.cs" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\Liniar Algebra\Backup\IntMatrix.cs">
+</Event><Event ErrorLevel="0" Project="Liniar Algebra" Source="Inverse\inv.cs" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\Liniar Algebra\Backup\Inverse\inv.cs">
+</Event><Event ErrorLevel="0" Project="Liniar Algebra" Source="Inverse\lu.cs" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\Liniar Algebra\Backup\Inverse\lu.cs">
+</Event><Event ErrorLevel="0" Project="Liniar Algebra" Source="Inverse\trinverse.cs" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\Liniar Algebra\Backup\Inverse\trinverse.cs">
+</Event><Event ErrorLevel="0" Project="Liniar Algebra" Source="LiniarAlgebraFunctions.cs" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\Liniar Algebra\Backup\LiniarAlgebraFunctions.cs">
+</Event><Event ErrorLevel="0" Project="Liniar Algebra" Source="Matrix.cs" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\Liniar Algebra\Backup\Matrix.cs">
+</Event><Event ErrorLevel="0" Project="Liniar Algebra" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\Liniar Algebra\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Liniar Algebra" Source="Liniar Algebra.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Liniar Algebra" Source="Liniar Algebra.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Liniar Algebra" Source="Liniar Algebra.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

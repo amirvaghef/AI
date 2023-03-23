@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CNRInterpolation", "CNRInterpolation.csproj", "{3BB04153-8D1A-4193-9E5D-EA007519BD75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BB04153-8D1A-4193-9E5D-EA007519BD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB04153-8D1A-4193-9E5D-EA007519BD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB04153-8D1A-4193-9E5D-EA007519BD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB04153-8D1A-4193-9E5D-EA007519BD75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

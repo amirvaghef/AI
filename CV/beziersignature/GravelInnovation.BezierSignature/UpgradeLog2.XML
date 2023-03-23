@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GravelInnovation.BezierSignature">
+</Property><Property Name="Solution File" Value="G:\Own Program\M.S. Projects\CV\beziersignature\GravelInnovation.BezierSignature\GravelInnovation.BezierSignature.sln">
+</Property><Property Name="Date" Value="Monday, June 28, 2010">
+</Property><Property Name="Time" Value="16:40:12 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="GravelInnovation.BezierSignature" Source="GravelInnovation.BezierSignature.csproj" Description="Project file successfully backed up as G:\Own Program\M.S. Projects\CV\beziersignature\GravelInnovation.BezierSignature\Backup\GravelInnovation.BezierSignature.csproj">
+</Event><Event ErrorLevel="0" Project="GravelInnovation.BezierSignature" Source="Bezier.cs" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\beziersignature\GravelInnovation.BezierSignature\Backup\Bezier.cs">
+</Event><Event ErrorLevel="0" Project="GravelInnovation.BezierSignature" Source="Graph.cs" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\beziersignature\GravelInnovation.BezierSignature\Backup\Graph.cs">
+</Event><Event ErrorLevel="0" Project="GravelInnovation.BezierSignature" Source="PointF.cs" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\beziersignature\GravelInnovation.BezierSignature\Backup\PointF.cs">
+</Event><Event ErrorLevel="0" Project="GravelInnovation.BezierSignature" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\beziersignature\GravelInnovation.BezierSignature\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GravelInnovation.BezierSignature" Source="SignatureBox.cs" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\beziersignature\GravelInnovation.BezierSignature\Backup\SignatureBox.cs">
+</Event><Event ErrorLevel="0" Project="GravelInnovation.BezierSignature" Source="SignatureBox.Designer.cs" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\beziersignature\GravelInnovation.BezierSignature\Backup\SignatureBox.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GravelInnovation.BezierSignature" Source="LICENCE.TXT" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\beziersignature\GravelInnovation.BezierSignature\Backup\LICENCE.TXT">
+</Event><Event ErrorLevel="0" Project="GravelInnovation.BezierSignature" Source="README.TXT" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\beziersignature\GravelInnovation.BezierSignature\Backup\README.TXT">
+</Event><Event ErrorLevel="0" Project="GravelInnovation.BezierSignature" Source="SignatureBox.resx" Description="File successfully backed up as G:\Own Program\M.S. Projects\CV\beziersignature\GravelInnovation.BezierSignature\Backup\SignatureBox.resx">
+</Event><Event ErrorLevel="0" Project="GravelInnovation.BezierSignature" Source="GravelInnovation.BezierSignature.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GravelInnovation.BezierSignature" Source="GravelInnovation.BezierSignature.csproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="" Source="GravelInnovation.BezierSignature.csproj" Description="The project file 'G:\Own Program\M.S. Projects\CV\beziersignature\GravelInnovation.BezierSignature\GravelInnovation.BezierSignature.csproj' cannot be opened.&#xA;&#xA;The project type is not supported by this installation.">
+</Event></UpgradeLog>

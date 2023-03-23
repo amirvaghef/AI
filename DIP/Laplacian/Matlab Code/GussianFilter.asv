@@ -1,0 +1,13 @@
+function GussianFilter()
+filter1=zeros(5,5);
+for i=1:5
+    for j=1:5
+        filter1(i,j)=exp((-D(i-1,j-1)^2)/2);
+    end
+end
+plot(filter1);
+end
+
+function output=D(x,y)
+output=sqrt((x)^2+(y)^2);
+end

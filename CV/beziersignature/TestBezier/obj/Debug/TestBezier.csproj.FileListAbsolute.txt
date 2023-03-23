@@ -1,0 +1,5 @@
+G:\Own Program\M.S. Projects\CV\beziersignature\TestBezier\obj\Debug\ResolveAssemblyReference.cache
+G:\Own Program\M.S. Projects\CV\beziersignature\TestBezier\obj\Debug\TestBezier.Form1.resources
+G:\Own Program\M.S. Projects\CV\beziersignature\TestBezier\obj\Debug\TestBezier.Properties.Resources.resources
+G:\Own Program\M.S. Projects\CV\beziersignature\TestBezier\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Own Program\M.S. Projects\CV\beziersignature\TestBezier\obj\Debug\GenerateResource-ResGen.write.1.tlog

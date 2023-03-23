@@ -1,0 +1,41 @@
+function GaussianLaplacian()
+img = imread('Zebra.jpg');
+img = img(:,:,1);
+%[m,n] = size(img);
+flt = fspecial('gaussian',5,5);
+imgStage{1} = img;
+figure('Name','Guassian Pyramid','NumberTitle','off');
+subplot(2,4,1);
+imshow(imgStage{1}); 
+for i=1:7
+    imgStage{i} = imfilter(imgStage{i}, flt); 
+    imgStage{i+1}=imgStage{i}(1:2:end,1:2:end);
+    subplot(2,4,i+1);
+    imshow(imgStage{i+1}); 
+end
+
+figure('Name','Laplacian Pyramid','NumberTitle','off');
+subplot(2,4,8);
+imshow(imgStage{8});
+imgStageLap{8} = imgStage{8};
+for i=7:-1:1
+    %imgStage{i} = imfilter(imgStage{i}, flt); 
+    %imgStage{i-1}=imgStage{i}(1:2:end,1:2:end);
+    [m,n]=size(imgStage{i+1});
+    %imgStageLap{i}() = zeros(m,n);    
+    imgTemp=zeros(2*m,2*n);
+    for j=1:m
+       % imgStageLap{i}(2*j-1:2*j,:) = imgStage{i+1}(j,:);
+       imgTemp(2*j-1,1:n)=imgStage{i+1}(j,:);
+       imgTemp(2*j,1:n)=imgStage{i+1}(j,:);
+    end
+    for k=1:n
+        imgTemp2(:,2*k-1) = imgTemp(:,k);
+        imgTemp2(:,2*k) = imgTemp(:,k);
+    end
+    imgStageLap{i} = double(imgStage{i}) - mat2cell(imgTemp2;
+    subplot(2,4,i-1);
+    imshow(imgStageLap{i}); 
+end
+
+end

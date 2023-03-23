@@ -1,0 +1,4 @@
+Janus.Windows.EditControls.UIButton, Janus.Windows.UI.v3, Version=3.5.111.0, Culture=neutral, PublicKeyToken=376f63eb748ad132
+Janus.Windows.ExplorerBar.ExplorerBar, Janus.Windows.ExplorerBar.v3, Version=3.5.111.0, Culture=neutral, PublicKeyToken=376f63eb748ad132
+Janus.Windows.ButtonBar.ButtonBar, Janus.Windows.ButtonBar.v3, Version=3.5.111.0, Culture=neutral, PublicKeyToken=376f63eb748ad132
+Janus.Windows.UI.Dock.UIPanelManager, Janus.Windows.UI.v3, Version=3.5.111.0, Culture=neutral, PublicKeyToken=376f63eb748ad132

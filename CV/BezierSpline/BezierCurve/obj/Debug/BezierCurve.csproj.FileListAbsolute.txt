@@ -1,0 +1,15 @@
+G:\Own Program\M.S. Projects\CV\BezierSpline\BezierCurve\bin\Debug\BezierCurve.exe
+G:\Own Program\M.S. Projects\CV\BezierSpline\BezierCurve\bin\Debug\BezierCurve.pdb
+G:\Own Program\M.S. Projects\CV\BezierSpline\BezierCurve\obj\Debug\ResolveAssemblyReference.cache
+G:\Own Program\M.S. Projects\CV\BezierSpline\BezierCurve\obj\Debug\Window1.g.cs
+G:\Own Program\M.S. Projects\CV\BezierSpline\BezierCurve\obj\Debug\App.g.cs
+G:\Own Program\M.S. Projects\CV\BezierSpline\BezierCurve\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Own Program\M.S. Projects\CV\BezierSpline\BezierCurve\obj\Debug\BezierCurve_MarkupCompile.cache
+G:\Own Program\M.S. Projects\CV\BezierSpline\BezierCurve\obj\Debug\BezierCurve_MarkupCompile.lref
+G:\Own Program\M.S. Projects\CV\BezierSpline\BezierCurve\obj\Debug\Window1.baml
+G:\Own Program\M.S. Projects\CV\BezierSpline\BezierCurve\obj\Debug\BezierCurve.g.resources
+G:\Own Program\M.S. Projects\CV\BezierSpline\BezierCurve\obj\Debug\BezierCurve.Properties.Resources.resources
+G:\Own Program\M.S. Projects\CV\BezierSpline\BezierCurve\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Own Program\M.S. Projects\CV\BezierSpline\BezierCurve\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\Own Program\M.S. Projects\CV\BezierSpline\BezierCurve\obj\Debug\BezierCurve.exe
+G:\Own Program\M.S. Projects\CV\BezierSpline\BezierCurve\obj\Debug\BezierCurve.pdb

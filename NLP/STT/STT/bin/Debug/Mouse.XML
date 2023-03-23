@@ -1,0 +1,47 @@
+<GRAMMAR WORDTYPE="LEXICAL" LANGID="409">
+	<DEFINE>
+		<ID NAME="khobi" VAL="1"/>
+		<ID NAME="mamnon" VAL="2"/>
+		<ID NAME="barnamenevis" VAL="3"/>
+		<ID NAME="salam" VAL="4"/>
+	</DEFINE>
+	<RULE NAME="خوبی" TOPLEVEL="ACTIVE">
+		<PHRASE>khoobee</PHRASE>
+	</RULE>
+	<RULE NAME="خوبم" TOPLEVEL="ACTIVE">
+		<PHRASE>khoobam</PHRASE>
+	</RULE>
+	<RULE NAME="عرض" TOPLEVEL="ACTIVE">
+		<PHRASE>arz</PHRASE>
+	</RULE>
+	<RULE NAME="کردم" TOPLEVEL="ACTIVE">
+		<PHRASE>kardam</PHRASE>
+	</RULE>
+	<RULE NAME="ممنون" TOPLEVEL="ACTIVE">
+		<PHRASE>maamnoon</PHRASE>
+	</RULE>
+	<RULE NAME="barnamenevis" TOPLEVEL="ACTIVE">
+		<PHRASE>baarnaameh nevees</PHRASE>
+	</RULE>
+	<RULE NAME="سلام" TOPLEVEL="ACTIVE">
+		<PHRASE>salaam</PHRASE>
+	</RULE>
+	<RULE NAME="مرسی" TOPLEVEL="ACTIVE">
+		<PHRASE>mersi</PHRASE>
+	</RULE>
+	<RULE NAME="عوضی" TOPLEVEL="ACTIVE">
+		<PHRASE>avazi</PHRASE>
+	</RULE>
+	<RULE NAME="هواپیما" TOPLEVEL="ACTIVE">
+		<PHRASE>hawapeiymaa</PHRASE>
+	</RULE>
+	<RULE NAME="هوا" TOPLEVEL="ACTIVE">
+		<PHRASE>hava</PHRASE>
+	</RULE>
+	<RULE NAME="هاشم" TOPLEVEL="ACTIVE">
+		<PHRASE>haashem</PHRASE>
+	</RULE>
+	<RULE NAME="balad neestam" TOPLEVEL="ACTIVE">
+		<PHRASE>balad neestam</PHRASE>
+	</RULE>
+</GRAMMAR>

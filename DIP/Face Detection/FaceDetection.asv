@@ -1,0 +1,103 @@
+function FaceDetection()%img)
+img = '1.jpg';
+if(size(img) < 1)
+    originalImage = imread('1.jpg');
+else
+    originalImage = imread(img);
+end
+templateImage = imread('temp.jpg');
+templateSize = size(templateImage);
+%Begin Skin Color Segmentation
+HSVimg=rgb2hsv(originalImage);
+H=HSVimg(:,:,1);
+S=HSVimg(:,:,2);
+%V=HSVimg(:,:,3);
+[M,N,O]=size(originalImage);
+skinImage=zeros(M,N,O);
+for m=1:M
+    for n=1:N
+       if((((0.0<=H(m,n))&&(H(m,n)<=0.08)) || ((0.97<=H(m,n))&&(H(m,n)<=1)))&& (0.15<S(m,n))&& (S(m,n)<0.75))
+            skinImage(m,n,:)=originalImage(m,n,:);
+       end 
+    end
+end
+%End Skin Color Segmentation
+
+skinImage = uint8(skinImage);
+figure;
+imshow(skinImage);
+
+% Begin Morphological Processing
+l = rgb2gray(skinImage);
+l(l<=50) = 0;
+se = strel('disk',1);
+l=imopen(l,se);
+l = imfill(l, 'holes'); 
+se = strel('disk',6);
+l=imopen(l,se);
+figure;
+imshow(l,[]);
+% End Morphological Processing
+
+l(l>0) = 1;
+l = rgb2gray(originalImage).*l;
+figure;
+imshow(l,[]);
+
+%Begin Template Matching
+lcorr = normxcorr2(templateImage,l);
+lcorr = im2bw(lcorr, 0.2);
+figure;
+imshow(lcorr,[]);
+%End Template Matching
+
+% Begin Connected Region Analysis
+labeledRegion = bwlabel(l, 8);
+regionProperties = regionprops(labeledRegion, 'all');
+regionNO = size(regionProperties, 1); 
+
+figure;
+imagesc(originalImage);
+hold on; 
+for k = 1 : regionNO
+    centroid = regionProperties(k).Centroid;
+    areaPixels = regionProperties(k).PixelIdxList;
+    
+    % Rejection based on Euler number
+    l1 = l(areaPixels);
+    med = (max(max(l1)) - min(min(l1)))/2;
+    l1(l1<med) = 0;
+    l1(l1>=med) = 1;
+    euler = bweuler(l1, 8);
+    
+    if(euler > 20)
+        boundBox = regionProperties(k).BoundingBox;
+        
+        cropimg = imcrop(l,boundBox);
+        
+        cropsize = size(cropimg);
+        if((templateSize(1) <= cropsize(1)) && (templateSize(2) <= cropsize(2)))
+            cropimg = normxcorr2(templateImage,cropsize);
+        end
+        
+        labeledTemp = bwlabel(cropimg, 8);
+        regionTempProperies = regionprops(labeledTemp, 'all');
+        regionTempNO = size(regionTempProperies, 1); 
+        %cropsize = size(cropimg);
+        %if((templateSize(1) <= cropsize(1)) && (templateSize(2) <= cropsize(2)))
+        %    l1corr = normxcorr2(templateImage,cropsize);
+        %    max(l1corr);
+        %else
+        if( regionTempNO > 1)
+            for w = 1 : regionTempNO
+                tempCentroid = regionTempProperies(w).Centroid;
+                plot( tempCentroid(1,1) + boundBox(1) + 30, tempCentroid(1,2) + boundBox(2) + 50,'--bs','MarkerFaceColor','g','MarkerSize',5);
+            end
+        else
+            plot( centroid(1,1), centroid(1,2),'--bs','MarkerFaceColor','g','MarkerSize',5);
+        end
+    end
+    % -----------
+end
+hold off;
+end

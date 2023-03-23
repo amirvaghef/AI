@@ -1,0 +1,10 @@
+G:\Own Program\M.S. Projects\AI\BFS\ConsoleApplication1\bin\Debug\BFS.exe
+G:\Own Program\M.S. Projects\AI\BFS\ConsoleApplication1\bin\Debug\BFS.pdb
+G:\Own Program\M.S. Projects\AI\BFS\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Own Program\M.S. Projects\AI\BFS\ConsoleApplication1\obj\x86\Debug\BFS.exe
+G:\Own Program\M.S. Projects\AI\BFS\ConsoleApplication1\obj\x86\Debug\BFS.pdb
+G:\Own Program\M.S. Projects\AI\BFS\BFS\obj\x86\Debug\BFS.exe
+G:\Own Program\M.S. Projects\AI\BFS\BFS\obj\x86\Debug\BFS.pdb
+G:\Own Program\M.S. Projects\AI\BFS\BFS\bin\Debug\BFS.exe
+G:\Own Program\M.S. Projects\AI\BFS\BFS\bin\Debug\BFS.pdb
+G:\Own Program\M.S. Projects\AI\BFS\BFS\obj\x86\Debug\ResolveAssemblyReference.cache
